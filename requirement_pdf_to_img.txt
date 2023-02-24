@@ -7,7 +7,7 @@ uritemplate==3.0.1
 urllib3==1.24.3
 opencv-contrib-python==4.6.0.66
 opencv-python==4.6.0.66
-opencv-python-headless==4.6.0.66
+opencv-python-headless==4.5.4.60
 openpyxl==3.0.10
 opt-einsum==3.3.0
 osqp==0.6.2.post0
